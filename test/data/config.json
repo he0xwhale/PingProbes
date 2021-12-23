@@ -1,0 +1,18 @@
+{
+    "duration": "6",
+    "email": {
+        "enable": "true",
+        "addr": "test@hotmail.com"
+    },
+    "sms": {
+        "enable": "false",
+        "number": 12345678901
+    },
+    "smtp": {
+        "sender": "test@hotmail.com",
+        "server": "smtp.office365.com",
+        "port": 587,
+        "username": "test@hotmail.com",
+        "password": "password"
+    }
+}

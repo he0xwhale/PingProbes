@@ -1,0 +1,18 @@
+{
+    "duration": 3,
+    "heartBeat": {
+        "enable": "true",
+        "intervalTime": 40
+    },
+    "email": {
+        "enable": "true",
+        "addr": "admin@example.com;user@example.com;"
+    },
+    "smtp": {
+        "sender": "admin@example.com",
+        "server": "smtp.example.com",
+        "port": 25,
+        "username": "admin@example.com",
+        "password": "admin"
+    }
+}
